@@ -14,6 +14,6 @@ public class HelloWorld {
     @RequestMapping("/")
     public String getHelloWorld()
     {
-        return "hello world jenkins!!";
+        return "ztf jenkins!!";
     }
 }
